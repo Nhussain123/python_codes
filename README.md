@@ -21,18 +21,19 @@ weight = 75.5
 
 Variables must start with a letter. Cannot use special characters. Case sensitive.
 
-#Floats and strings
+# Floats and strings
 Float represents integer or decimal
 String represents test; can contain letters, numbers spaces and special characters
 
 To find out current value of a variable you type print(variable)
 
-#Functions
+# Functions
 Function is an action
 pd.read_csv() turns a csv file into a table in Python
 plt.plot() turns data into a line plot
 plt.show() displays the plot in a new window
 
+# loading a dataframe
 e.g
 import pandas as pd
 from matplotlib import pyplot as plit
